@@ -1,1 +1,1 @@
-buildPlugin(version: "Omega", UBUNTU_DISTS: ['focal'])
+buildPlugin(version: "Piers", UBUNTU_DISTS: ['focal'])
