@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2025-01-05 13:38+0000\n"
+"PO-Revision-Date: 2025-01-25 20:27+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-add-ons-videoplayer-inputstream/inputstream-ffmpegdirect/af_za/>\n"
 "Language: af_za\n"
@@ -200,7 +200,7 @@ msgstr ""
 #. help-category: advanced
 msgctxt "#30640"
 msgid "Advanced settings"
-msgstr "Gevorderde verstellings"
+msgstr "Gevorderde instellings"
 
 #. help: Advanced - allowFFmpegLogging
 msgctxt "#30641"
